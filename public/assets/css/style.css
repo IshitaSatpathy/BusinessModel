@@ -365,7 +365,7 @@ section.section-show {
 }
 
 section .container {
-  padding-top: 50px;
+  padding-top: 30px;
   background: rgb(0,0,0 );
 box-shadow: 0 8px 12px 0 rgba( 31, 38, 135, 0.37 );
 backdrop-filter: blur( 4px );
@@ -749,7 +749,7 @@ border: 20px solid rgba( 255, 255, 255, 0.18 );
 
 .services .register-form {
   padding: 30px;
-  background-color: rgb(255 255 255 / 7%));
+  background-color: rgb(255 255 255 / 7%);
 }
 
 .services .register-form .error-message {
